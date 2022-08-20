@@ -1,4 +1,11 @@
+spring.application.name: better-reads-dataloader
+datadump.location:
+    author: D:/Java Project/BetterReadsVS/betterreads-data-loader/text-author.txt
+    works: D:/Java Project/BetterReadsVS/betterreads-data-loader/text-works.txt
+    
 spring:
+    main:
+        allow-circular-references: true
     data:
         cassandra:
             keyspace-name: main
@@ -20,6 +27,7 @@ astra.db:
     region: us-east1
     keyspace: main
     application.token: AstraCS:WOyLiumPHrxLDOvzMfEnjKRT:d5487bb2dfc3c276321835a9ba0def8216a4699b3450b9cf059c6cbbfec723e6
+
                   
 
 

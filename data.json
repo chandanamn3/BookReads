@@ -1,0 +1,28 @@
+{
+    "title": "Arts martiaux tome 2",
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-11T01:58:11.470855"
+    },
+    "covers": [
+        3150363
+    ],
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-04-28T06:54:19.472104"
+    },
+    "latest_revision": 3,
+    "key": "/works/OL10005006W",
+    "authors": [
+        {
+            "type": "/type/author_role",
+            "author": {
+                "key": "/authors/OL3970733A"
+            }
+        }
+    ],
+    "type": {
+        "key": "/type/work"
+    },
+    "revision": 3
+}

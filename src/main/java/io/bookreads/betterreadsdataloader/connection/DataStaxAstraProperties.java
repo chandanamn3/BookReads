@@ -1,4 +1,5 @@
-package connection;
+package io.bookreads.betterreadsdataloader.connection;
+
 import java.io.File;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
